@@ -1,2 +1,2 @@
 # Gitlet
-Builidng git
+Buliding the Git frame works
